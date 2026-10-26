@@ -1,16 +1,14 @@
-## Hi there 👋
+# Shiyuan Lin
 
-<!--
-**CroissantXinny/CroissantXinny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Undergraduate Student in Data Science and Big Data Technology
+The Hong Kong University of Science and Technology (Guangzhou)
 
-Here are some ideas to get you started:
+## Research Interests
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Machine Learning Systems
+- GPU and High-Performance Computing
+- Distributed Training and Mixture-of-Experts
+
+## Contact
+
+Email: slin954@conect.hkust-gz.edu.cn
